@@ -8,6 +8,7 @@
 Listos!
 
 
+
 Si tienes problemas de permisos:
 
     chmod +x ./1_install.sh
