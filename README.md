@@ -2,8 +2,8 @@
 
 * 1) Descomprime el archivo
 * 2) Entra en la carpeta
-* 3) Ejecuta: 1_install.sh
-* 4) Ejecuta: 2_execute.sh
+* 3) Ejecuta: ./1_install.sh
+* 4) Ejecuta: ./2_execute.sh
 
 Listos!
 
